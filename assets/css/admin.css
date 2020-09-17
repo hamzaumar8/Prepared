@@ -1,0 +1,12 @@
+aside{
+    background: #fff;
+}
+
+main .content-wrapper{
+    background: #fff;
+}
+
+.card .content .input-field textarea{
+    resize: none;
+    height: 100px;
+}
